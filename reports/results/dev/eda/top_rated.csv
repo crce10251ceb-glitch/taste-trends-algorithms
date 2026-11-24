@@ -1,0 +1,51 @@
+movieId,title,genres,year,num_ratings,avg_rating,weighted_rating
+318,"Shawshank Redemption, The (1994)",Crime|Drama,1994,317,4.429,4.303
+858,"Godfather, The (1972)",Crime|Drama,1972,192,4.289,4.126
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,1999,218,4.273,4.129
+1276,Cool Hand Luke (1967),Drama,1967,57,4.272,3.912
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,1964,97,4.268,4.007
+904,Rear Window (1954),Mystery|Thriller,1954,84,4.262,3.978
+1221,"Godfather: Part II, The (1974)",Crime|Drama,1974,129,4.26,4.048
+48516,"Departed, The (2006)",Crime|Drama|Thriller,2006,107,4.252,4.013
+1213,Goodfellas (1990),Crime|Drama,1990,126,4.25,4.037
+912,Casablanca (1942),Drama|Romance,1942,100,4.24,3.994
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,1995,204,4.238,4.093
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,2008,149,4.238,4.053
+1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,1987,142,4.232,4.042
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,1977,251,4.231,4.11
+527,Schindler's List (1993),Drama|War,1993,220,4.225,4.091
+1208,Apocalypse Now (1979),Action|Drama|War,1979,107,4.22,3.991
+2329,American History X (1998),Crime|Drama,1998,129,4.217,4.017
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,1980,211,4.216,4.079
+1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,1974,59,4.212,3.886
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,1981,200,4.208,4.066
+1193,One Flew Over the Cuckoo's Nest (1975),Drama,1975,133,4.203,4.011
+1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,1992,131,4.202,4.009
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,1994,307,4.197,4.1
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,1999,278,4.192,4.087
+1225,Amadeus (1984),Drama,1984,76,4.184,3.913
+908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,1959,57,4.184,3.865
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,2001,120,4.183,3.983
+1199,Brazil (1985),Fantasy|Sci-Fi,1985,59,4.178,3.868
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,1994,329,4.164,4.077
+1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,1975,136,4.162,3.984
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,1991,279,4.161,4.061
+7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,2004,131,4.16,3.978
+4011,Snatch (2000),Comedy|Crime|Thriller,2000,93,4.156,3.927
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,2001,87,4.155,3.917
+3147,"Green Mile, The (1999)",Crime|Drama,1999,111,4.149,3.948
+1203,12 Angry Men (1957),Drama,1957,57,4.149,3.847
+2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,1997,88,4.148,3.914
+6016,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,2002,75,4.147,3.889
+2028,Saving Private Ryan (1998),Action|Drama|War,1998,188,4.146,4.011
+1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western,1966,72,4.146,3.882
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,1983,196,4.138,4.008
+68157,Inglourious Basterds (2009),Action|Drama|War,2009,88,4.136,3.906
+4226,Memento (2000),Mystery|Thriller,2000,159,4.123,3.974
+1207,To Kill a Mockingbird (1962),Drama,1962,58,4.121,3.834
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,2003,185,4.119,3.988
+608,Fargo (1996),Comedy|Crime|Drama|Thriller,1996,181,4.116,3.983
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,2010,55,4.109,3.82
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,2001,198,4.106,3.984
+111,Taxi Driver (1976),Crime|Drama|Thriller,1976,104,4.106,3.91
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,1982,124,4.101,3.929

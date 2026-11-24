@@ -1,0 +1,55 @@
+{
+  "total_ratings": 100836,
+  "total_users": 610,
+  "rated_movies": 9724,
+  "avg_rating": 3.5016,
+  "std_rating": 1.0425,
+  "first_rating": "1996-03-29T18:36:55",
+  "last_rating": "2018-09-24T14:27:30",
+  "total_movies": 9742,
+  "total_tags": 3683,
+  "matrix_density_pct": 1.7,
+  "matrix_sparsity_pct": 98.3,
+  "ratings_per_user_avg": 165.3,
+  "ratings_per_movie_avg": 10.37,
+  "user_behaviour": {
+    "mean_ratings_per_user": 165.3,
+    "median_ratings_per_user": 70,
+    "p90_ratings_per_user": 400,
+    "max_ratings_per_user": 2698,
+    "min_ratings_per_user": 20,
+    "mean_user_avg_rating": 3.6572,
+    "mean_user_rating_std": 0.9271,
+    "mean_active_days": 234.3,
+    "pct_generous_users": 25.08,
+    "pct_harsh_users": 8.03
+  },
+  "popularity_tiers": [
+    {
+      "popularity_tier": "Head",
+      "num_movies": 659,
+      "num_ratings": 50447,
+      "mean_of_movie_avgs": 3.614,
+      "min_ratings_per_movie": 39,
+      "max_ratings_per_movie": 329
+    },
+    {
+      "popularity_tier": "Mid",
+      "num_movies": 1566,
+      "num_ratings": 30229,
+      "mean_of_movie_avgs": 3.356,
+      "min_ratings_per_movie": 10,
+      "max_ratings_per_movie": 39
+    },
+    {
+      "popularity_tier": "Tail",
+      "num_movies": 7499,
+      "num_ratings": 20160,
+      "mean_of_movie_avgs": 3.212,
+      "min_ratings_per_movie": 1,
+      "max_ratings_per_movie": 10
+    }
+  ],
+  "min_ratings_top_rated": 50,
+  "eda_seconds": 26.4
+}

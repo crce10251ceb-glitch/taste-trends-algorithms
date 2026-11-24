@@ -1,0 +1,4 @@
+popularity_tier,num_movies,num_ratings,mean_of_movie_avgs,min_ratings_per_movie,max_ratings_per_movie
+Head,659,50447,3.614,39,329
+Mid,1566,30229,3.356,10,39
+Tail,7499,20160,3.212,1,10

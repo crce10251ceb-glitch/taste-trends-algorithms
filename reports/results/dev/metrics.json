@@ -1,0 +1,76 @@
+{
+  "k": 10,
+  "relevance_threshold": 4.0,
+  "rmse": {
+    "als": 0.8829330556263841,
+    "global_mean": 1.0433642716436766,
+    "bias_baseline": 0.8691163366933758
+  },
+  "test_rows": 19870,
+  "test_rows_scored": 19068,
+  "test_rows_cold_start_dropped": 802,
+  "user_profile_arp": 47.23023310806606,
+  "catalogue_mean_popularity": 9.005227449671894,
+  "catalogue_size": 8991,
+  "eval_users": 590,
+  "models": {
+    "ALS": {
+      "precision_at_10": 0.00016949152542372882,
+      "recall_at_10": 0.000847457627118644,
+      "ndcg_at_10": 0.0010392325301109464,
+      "hit_rate_at_10": 0.001694915254237288,
+      "coverage": 0.01946390835279724,
+      "arp": 1.2152542372881356,
+      "median_rec_popularity": 1.0,
+      "head_share": 0.0,
+      "mid_share": 0.002033898305084746,
+      "tail_share": 0.9979661016949153,
+      "gini_exposure": 0.9972120142741611,
+      "users": 590
+    },
+    "Popularity": {
+      "precision_at_10": 0.12067796610169491,
+      "recall_at_10": 0.09319218639031576,
+      "ndcg_at_10": 0.15914864895066427,
+      "hit_rate_at_10": 0.5457627118644067,
+      "coverage": 0.005894783672561451,
+      "arp": 195.64016949152543,
+      "median_rec_popularity": 188.0,
+      "head_share": 1.0,
+      "mid_share": 0.0,
+      "tail_share": 0.0,
+      "gini_exposure": 0.9980380380380381,
+      "users": 590
+    },
+    "Random": {
+      "precision_at_10": 0.00288135593220339,
+      "recall_at_10": 0.0014452440477539382,
+      "ndcg_at_10": 0.0032726780469697955,
+      "hit_rate_at_10": 0.0288135593220339,
+      "coverage": 0.48059170281392505,
+      "arp": 8.587966101694915,
+      "median_rec_popularity": 2.0,
+      "head_share": 0.06745762711864407,
+      "mid_share": 0.17033898305084746,
+      "tail_share": 0.7622033898305085,
+      "gini_exposure": 0.6161436766333188,
+      "users": 590
+    }
+  },
+  "popularity_lift": {
+    "ALS": 0.025730430644023066,
+    "Popularity": 4.14226559170028,
+    "Random": 0.1818319651746171
+  },
+  "all_users": {
+    "users": 610,
+    "coverage": 0.01946390835279724,
+    "arp": 1.217049180327869,
+    "median_rec_popularity": 1.0,
+    "head_share": 0.0,
+    "mid_share": 0.0022950819672131148,
+    "tail_share": 0.9977049180327869,
+    "gini_exposure": 0.9972356327183284
+  },
+  "evaluation_seconds": 10.6
+}

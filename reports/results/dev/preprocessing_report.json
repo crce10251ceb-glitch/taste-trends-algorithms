@@ -1,0 +1,29 @@
+{
+  "ratings": {
+    "input_rows": 100836,
+    "removed_missing": 0,
+    "removed_invalid": 0,
+    "removed_duplicates": 0,
+    "output_rows": 100836,
+    "removed_unknown_movie": 0
+  },
+  "movies": {
+    "rows": 9742,
+    "without_year": 13,
+    "without_genre": 34
+  },
+  "tags": {
+    "rows": 3683
+  },
+  "links": {
+    "rows": 9742,
+    "missing_tmdb": 8
+  },
+  "partitioning": {
+    "num_partitions": 8,
+    "non_empty_partitions": 8,
+    "min_rows": 9388,
+    "max_rows": 20376,
+    "avg_rows": 12604.5
+  }
+}

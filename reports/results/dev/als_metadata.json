@@ -1,0 +1,11 @@
+{
+  "rank": 8,
+  "reg_param": 0.2,
+  "max_iter": 15,
+  "users_with_factors": 610,
+  "movies_with_factors": 8991,
+  "users_with_full_list": 610,
+  "users_needing_live_scoring": 0,
+  "train_seconds": 11.8,
+  "candidate_k": 150
+}

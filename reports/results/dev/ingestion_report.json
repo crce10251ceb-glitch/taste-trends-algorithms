@@ -1,0 +1,92 @@
+{
+  "files": {
+    "ratings": {
+      "rows": 100836,
+      "missing_values": {
+        "userId": 0,
+        "movieId": 0,
+        "rating": 0,
+        "timestamp": 0
+      },
+      "duplicate_rows_on_key": 0,
+      "key_columns": [
+        "userId",
+        "movieId"
+      ],
+      "file": "ratings.csv",
+      "schema": [
+        "userId: int (nullable=true)",
+        "movieId: int (nullable=true)",
+        "rating: double (nullable=true)",
+        "timestamp: bigint (nullable=true)"
+      ],
+      "partitions": 1
+    },
+    "movies": {
+      "rows": 9742,
+      "missing_values": {
+        "movieId": 0,
+        "title": 0,
+        "genres": 0
+      },
+      "duplicate_rows_on_key": 0,
+      "key_columns": [
+        "movieId"
+      ],
+      "file": "movies.csv",
+      "schema": [
+        "movieId: int (nullable=true)",
+        "title: string (nullable=true)",
+        "genres: string (nullable=true)"
+      ],
+      "partitions": 1
+    },
+    "tags": {
+      "rows": 3683,
+      "missing_values": {
+        "userId": 0,
+        "movieId": 0,
+        "tag": 0,
+        "timestamp": 0
+      },
+      "duplicate_rows_on_key": 0,
+      "key_columns": [
+        "userId",
+        "movieId",
+        "tag",
+        "timestamp"
+      ],
+      "file": "tags.csv",
+      "schema": [
+        "userId: int (nullable=true)",
+        "movieId: int (nullable=true)",
+        "tag: string (nullable=true)",
+        "timestamp: bigint (nullable=true)"
+      ],
+      "partitions": 1
+    },
+    "links": {
+      "rows": 9742,
+      "missing_values": {
+        "movieId": 0,
+        "imdbId": 0,
+        "tmdbId": 8
+      },
+      "duplicate_rows_on_key": 0,
+      "key_columns": [
+        "movieId"
+      ],
+      "file": "links.csv",
+      "schema": [
+        "movieId: int (nullable=true)",
+        "imdbId: string (nullable=true)",
+        "tmdbId: int (nullable=true)"
+      ],
+      "partitions": 1
+    }
+  },
+  "users": 610,
+  "rated_movies": 9724,
+  "ratings": 100836,
+  "movies_in_catalogue": 9742
+}

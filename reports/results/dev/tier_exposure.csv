@@ -1,0 +1,19 @@
+source,popularity_tier,share
+Catalogue (movies),Head,0.07296185073962852
+Catalogue (movies),Mid,0.17172728283839395
+Catalogue (movies),Tail,0.7553108664219775
+All training ratings,Head,0.500321122446459
+All training ratings,Mid,0.29969369858953143
+All training ratings,Tail,0.19998517896400958
+Eval users' history,Head,0.49872431517504884
+Eval users' history,Mid,0.30027753923508693
+Eval users' history,Tail,0.20099814558986423
+ALS recommendations,Head,0.0
+ALS recommendations,Mid,0.002033898305084746
+ALS recommendations,Tail,0.9979661016949153
+Popularity recommendations,Head,1.0
+Popularity recommendations,Mid,0.0
+Popularity recommendations,Tail,0.0
+Random recommendations,Head,0.06745762711864407
+Random recommendations,Mid,0.17033898305084746
+Random recommendations,Tail,0.7622033898305085

@@ -1,0 +1,4 @@
+model,rmse
+ALS (matrix factorisation),0.8829330556263841
+Baseline: μ + user bias + movie bias,0.8691163366933758
+Baseline: global mean,1.0433642716436766

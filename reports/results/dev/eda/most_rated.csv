@@ -1,0 +1,51 @@
+movieId,title,genres,year,num_ratings,avg_rating
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,1994,329,4.164
+318,"Shawshank Redemption, The (1994)",Crime|Drama,1994,317,4.429
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,1994,307,4.197
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,1991,279,4.161
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,1999,278,4.192
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,1977,251,4.231
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,1993,238,3.75
+110,Braveheart (1995),Action|Drama|War,1995,237,4.032
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,1991,224,3.971
+527,Schindler's List (1993),Drama|War,1993,220,4.225
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,1999,218,4.273
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,1995,215,3.921
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,1980,211,4.216
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,1995,204,4.238
+2858,American Beauty (1999),Drama|Romance,1999,204,4.056
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,1995,203,3.975
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,1996,202,3.446
+150,Apollo 13 (1995),Adventure|Drama|IMAX,1995,201,3.846
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,1981,200,4.208
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,2001,198,4.106
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,1983,196,4.138
+858,"Godfather, The (1972)",Crime|Drama,1972,192,4.289
+457,"Fugitive, The (1993)",Thriller,1993,190,3.992
+592,Batman (1989),Action|Crime|Thriller,1989,189,3.429
+2028,Saving Private Ryan (1998),Action|Drama|War,1998,188,4.146
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,2002,188,4.021
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,2003,185,4.119
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,1992,183,3.792
+608,Fargo (1996),Comedy|Crime|Drama|Thriller,1996,181,4.116
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,1999,179,3.894
+380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,1994,178,3.497
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,1995,177,3.983
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,1994,172,3.942
+377,Speed (1994),Action|Romance|Thriller,1994,171,3.529
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,1985,171,4.038
+3578,Gladiator (2000),Action|Adventure|Drama,2000,170,3.938
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,2001,170,3.868
+1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,1997,165,3.488
+590,Dances with Wolves (1990),Adventure|Drama|Western,1990,164,3.835
+648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,1996,162,3.537
+344,Ace Ventura: Pet Detective (1994),Comedy,1994,161,3.04
+4226,Memento (2000),Mystery|Thriller,2000,159,4.123
+367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,1994,157,3.185
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,2003,149,3.779
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,2008,149,4.238
+595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,1991,146,3.771
+1214,Alien (1979),Horror|Sci-Fi,1979,146,3.969
+1036,Die Hard (1988),Action|Crime|Thriller,1988,145,3.862
+165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,1995,144,3.556
+500,Mrs. Doubtfire (1993),Comedy|Drama,1993,144,3.389

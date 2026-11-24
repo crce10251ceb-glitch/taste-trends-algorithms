@@ -1,0 +1,13 @@
+{
+  "mode": "dev",
+  "timings_seconds": {
+    "ingestion": 19.3,
+    "preprocessing": 20.8,
+    "eda": 30.5,
+    "training": 102.6,
+    "evaluation": 10.7,
+    "total": 197.1
+  },
+  "spark_version": "4.0.1",
+  "sample_fraction": 1.0
+}

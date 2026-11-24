@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Datasets and generated data (download with scripts/download_data.py)
+data/raw/*
+!data/raw/.gitkeep
+data/spark-tmp/
+*.zip
+
+# Trained models (regenerate with scripts/train_model.py)
+models/*
+!models/.gitkeep
+
+# Spark / Hadoop noise
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Local configuration and secrets
+config/config.yaml
+.env
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
